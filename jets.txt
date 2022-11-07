@@ -1,0 +1,6 @@
+Fighter Jet,StrikeEagle,F-15E,1875,2400,31000000
+Fighter Jet,Fighting Falcon,F-22,1500,2100,1300000
+Cargo Plane,HumDrum,F-16,1500,2002,14600000
+Cargo Plane,Hawk,F-22,1400,1850,143000000
+Bomber Plane,Eagle,F-15,1870,3450,27900000
+Bomber Plane,Lightning,F-35A,1200,1350,21500000

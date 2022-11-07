@@ -80,7 +80,7 @@ public class JetsApplication {
 				break;
 				
 			case 9: 
-				System.out.println("On behalf of, Area 51 Airbase - Thank you for stopping by!");
+				System.out.println("On behalf of, Sleepy Pilot Air Base - Thank you for stopping by!");
 				userMenu = false;
 				break;
 				

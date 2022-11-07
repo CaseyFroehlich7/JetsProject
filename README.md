@@ -7,12 +7,12 @@ The week 3 homework, Jets, was by far the most challenging yet rewarding project
 To accomplish this task, it was important to follow the given UML diagram because there were so many moving parts in this project. Working with different classes, interfaces, and a main application required a lot of different methods. A method to list all of the jets, fly the jets, view the fastest jet, view the jet with the longest range, load the cargo into a jet, and finally a method to add and remove a jet from the fleet. These methods were what made the user menu function. The user could flow through each one of these menu options until they decided to quit.
 
 # Technologies Used:
-Java
-Eclipse
-Git/Github
-Stack Overflow 
-Oracle 
-W3 Schools
+1. Java
+2. Eclipse
+3. Git/Github
+4. Stack Overflow 
+5. Oracle 
+6. W3 Schools
 
 # Lessons Learned:
 
@@ -21,7 +21,7 @@ As I learned from the previous homework project, Food Trucks, it was important f
 2. Polymorphism
 3. Abstract classes
 4. Array Lists
-5  Casting
+5. Casting
 6. Instanceof
 7. Loop usage
 8. Following a UML diagram

@@ -21,7 +21,7 @@ As I learned from the previous homework project, Food Trucks, it was important f
 2. Polymorphism
 3. Abstract classes
 4. Array Lists
-5 . Casting
+5  Casting
 6. Instanceof
 7. Loop usage
 8. Following a UML diagram
